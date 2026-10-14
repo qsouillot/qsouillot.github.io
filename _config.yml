@@ -1,3 +1,8 @@
-title: Page personnelle - Quentin Souillot
-description: Documents et autres
-theme: jekyll-theme-cayman
+title: Quentin Souillot - Professeur de mathématiques en CPGE ECG
+description: Divers documents
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+search_enabled: true
+exclude:
+  - README.md
